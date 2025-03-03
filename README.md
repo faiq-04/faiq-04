@@ -1,4 +1,4 @@
-### Hi there, I'm Faiq Ahmed Shaikh! 👋
+### Hello, I'm Faiq Ahmed Shaikh! 👋
 
 I'm a **Computer Science student majoring in Intelligent Computing**, interested in **Machine Learning and its vast libraries**. I also have hands-on experience in **Web Development** with tools like **React.js and Node.js**. I am continuously learning and willing to adapt to new challenges!
 
